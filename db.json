@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "email": "alibek@mail.ru",
+      "password": "alibek123",
+      "id": 1
+    },
+    {
+      "email": "alibek@mail.ru",
+      "password": "alibek123",
+      "id": 2
+    },
+    {
+      "email": "arsen@mail.ru",
+      "password": "qwerty",
+      "id": 3
+    },
+    {
+      "email": "arsen@mail.ru",
+      "password": "qwrtyu",
+      "id": 4
+    },
+    {
+      "email": "arsen@mail.ru",
+      "password": "qwrtyu",
+      "id": 5
+    }
+  ]
+}
